@@ -1,0 +1,9 @@
+2  Pacchetto di figurine
+- prendo il pacchetto di figurine
+- apro il pacchetto di figurine
+- controllo le figurine una ad una 
+- FINCHE' non finisco il pacchetto 
+- SE la "figurina" è presente nell'album:
+     mettiamo la figurina nel "mazzo dei doppioni"
+- ALTRIMENTI:
+     incolliamo la figurina nell' album
